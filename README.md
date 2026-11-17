@@ -1,3 +1,3 @@
 # hair-salon
 
-https://hair-salon-bilk.vercel.app/#about
+https://hair-salon-bilk.vercel.app
